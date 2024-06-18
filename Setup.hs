@@ -1,5 +1,7 @@
 #!/usr/bin/env runhaskell
 
+{-# LANGUAGE OverloadedStrings #-}
+
 import Distribution.Simple
 import Distribution.PackageDescription
 import Distribution.Version
